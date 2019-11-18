@@ -1,0 +1,21 @@
+﻿  main.c
+  functions.c
+  dynamicArray.c
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(19): error C2065: 'TElem': undeclared identifier
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(19): error C2065: 'arr2': undeclared identifier
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(19): error C2059: syntax error: ')'
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(20): error C2039: 'size': is not a member of 'DynamicSignals'
+  d:\faculta\sem2\object oriented programming\lab3 console\main\main\header.h(12): note: see declaration of 'DynamicSignals'
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(21): error C2065: 'arr2': undeclared identifier
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(21): error C2109: subscript requires array or pointer type
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(21): error C2039: 'arr': is not a member of 'DynamicSignals'
+  d:\faculta\sem2\object oriented programming\lab3 console\main\main\header.h(12): note: see declaration of 'DynamicSignals'
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(22): error C2039: 'arr': is not a member of 'DynamicSignals'
+  d:\faculta\sem2\object oriented programming\lab3 console\main\main\header.h(12): note: see declaration of 'DynamicSignals'
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(22): error C2198: 'free': too few arguments for call
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(23): error C2039: 'arr': is not a member of 'DynamicSignals'
+  d:\faculta\sem2\object oriented programming\lab3 console\main\main\header.h(12): note: see declaration of 'DynamicSignals'
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(23): error C2065: 'arr2': undeclared identifier
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(27): warning C4028: formal parameter 1 different from declaration
+d:\faculta\sem2\object oriented programming\lab3 console\main\main\dynamicarray.c(36): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
